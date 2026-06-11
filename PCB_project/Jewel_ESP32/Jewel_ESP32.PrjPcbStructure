@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=ADC.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=DAC_OUT.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=GSM.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=PWR.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=RS485.SchDoc|SheetNumber=4
