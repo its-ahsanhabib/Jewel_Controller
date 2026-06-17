@@ -1,28 +1,14 @@
-Output: Gerber Files
-Type  : Gerber
-From  : PCB Document [PCB1.PcbDoc]
-   Generated File[PCB1.GTO]
-   Generated File[PCB1.GTP]
-   Generated File[PCB1.GTS]
-   Generated File[PCB1.GTL]
-   Generated File[PCB1.GBL]
-   Generated File[PCB1.GBS]
-   Generated File[PCB1.GBP]
-   Generated File[PCB1.GBO]
-   Generated File[PCB1.GM1]
-   Generated File[PCB1.GM13]
-   Generated File[PCB1.GM15]
-   Generated File[PCB1.GKO]
-   Generated File[PCB1.GPT]
-   Generated File[PCB1.GPB]
-   Generated File[PCB1.GD1]
-   Generated File[PCB1.GG1]
-   Generated File[PCB1.GM]
-   Generated File[PCB1.EXTREP]
-   Generated File[PCB1.REP]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:09:37 PM On 17-Jun-26
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Jewel_ESP32.PrjPcb]
+   Generated File[Bill of Materials-Jewel_ESP32.xlsx]
 
 
-Files Generated   : 19
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:07:58 PM On 17-Jun-26
+Finished Output Generation At 11:09:42 PM On 17-Jun-26
