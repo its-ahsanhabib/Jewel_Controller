@@ -1,28 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : PCB Document [PCB1.PcbDoc]
-   Generated File[PCB1.GTO]
-   Generated File[PCB1.GTP]
-   Generated File[PCB1.GTS]
-   Generated File[PCB1.GTL]
-   Generated File[PCB1.GBL]
-   Generated File[PCB1.GBS]
-   Generated File[PCB1.GBP]
-   Generated File[PCB1.GBO]
-   Generated File[PCB1.GM1]
-   Generated File[PCB1.GM13]
-   Generated File[PCB1.GM15]
-   Generated File[PCB1.GKO]
-   Generated File[PCB1.GPT]
-   Generated File[PCB1.GPB]
-   Generated File[PCB1.GD1]
-   Generated File[PCB1.GG1]
-   Generated File[PCB1.GM]
-   Generated File[PCB1.EXTREP]
-   Generated File[PCB1.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Jewel_ESP32.PrjPcb]
+   Generated File[Solar-RoundHoles.TXT]
+   Generated File[Solar-SlotHoles.TXT]
+   Generated File[Solar.LDP]
+   Generated File[Solar.DRR]
 
 
-Files Generated   : 19
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 11:33:38 PM On 17-Jun-26
+Finished Output Generation At 11:07:56 AM On 14-Nov-26

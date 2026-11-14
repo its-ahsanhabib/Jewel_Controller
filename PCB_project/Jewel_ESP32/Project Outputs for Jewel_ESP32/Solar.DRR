@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Solar.PcbDoc   14-Nov-26  11:07:56 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Solar-RoundHoles.TXT
+ASCII SlotHoles File : Solar-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             200       PTH        893.82mm (35.19inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        38.12mm (1.50inch)
+T3      0.711mm (28mil)                                           Round             43        PTH        541.46mm (21.32inch)
+T4      0.8mm (31mil)                                             Round             4         PTH        119.79mm (4.72inch)
+T5      1mm (39mil)                                               Round             18        PTH        95.50mm (3.76inch)
+T6      1.5mm (59mil)                                             Round             12        PTH        148.58mm (5.85inch)
+T7      1.65mm (65mil)                                            Round             14        PTH        243.47mm (9.59inch)
+T8      3mm (118mil)                                              Round             4         PTH        328.30mm (12.93inch)
+T9      0.6mm (24mil)                                             Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              301
+
+Total Processing Time (hh:mm:ss) : 00:00:00
