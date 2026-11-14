@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Solar.PcbDoc   14-Nov-26  11:32:56 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Solar-RoundHoles.TXT
+ASCII SlotHoles File : Solar-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             4         PTH        3.60mm (0.14inch)
+T2      0.3mm (12mil)                                             Round             217       PTH        936.16mm (36.86inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        38.12mm (1.50inch)
+T4      0.8mm (31mil)                                             Round             6         PTH        163.69mm (6.44inch)
+T5      1mm (39mil)                                               Round             18        PTH        116.64mm (4.59inch)
+T6      1.5mm (59mil)                                             Round             3         PTH        10.16mm (0.40inch)
+T7      1.65mm (65mil)                                            Round             8         PTH        62.36mm (2.45inch)
+T8      3mm (118mil)                                              Round             4         PTH        254.89mm (10.04inch)
+T9      0.6mm (24mil)                                             Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              266
+
+Total Processing Time (hh:mm:ss) : 00:00:01

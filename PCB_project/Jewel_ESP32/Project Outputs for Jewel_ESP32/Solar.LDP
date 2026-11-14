@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ahksh\OneDrive\Documents\GitHub\Jewel_Controller\PCB_project\Jewel_ESP32\Solar.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=solar-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=solar-slotholes.txt|DrillLayers=gtl,gbl
